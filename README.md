@@ -4,10 +4,10 @@
 
 This is a simple project to showcase your skills in the following areas:
 
--   Python or C/C++ programming
--   Coding style
--   Thinking process
--   Solving skills
+- Python or C/C++ programming
+- Coding style
+- Thinking process
+- Solving skills
 
 ## Problem statement
 
@@ -23,26 +23,27 @@ You are given a set of five images, each of which contains some text in various 
 
 ## Requirements
 
--   You must use Python or C/C++.
--   Evaluate Character Segmentation and Recognition separately.
-    -   Area of interest detection.
-    -   Detection per area of interest. (Optional)
--   Validation using Character Error Rate (CER) and Word Error Rate (WER).
-    -   https://github.com/jitsi/jiwer
-    -   https://github.com/kahne/fastwer
--   You are free to use any open-source library or tool.
--   Processing speed is a **plus**.
+- You must use Python or C/C++.
+- Evaluate Character Segmentation and Recognition separately.
+  - Area of interest detection.
+  - Detection per area of interest. (Optional)
+- Validation using Character Error Rate (CER) and Word Error Rate (WER).
+  - <https://github.com/jitsi/jiwer>
+  - <https://github.com/kahne/fastwer>
+- You are free to use any open-source library or tool.
+- Processing speed is a **plus**.
 
 ## Evaluation
 
--   The quality of your code will be taken into account.
--   The evaluation will be based on the CER and WER of your solution.
+- The quality of your code will be taken into account.
+- The evaluation will be based on the CER and WER of your solution.
 
 ## Submission
 
 - Fork this repository.
 - Add your code to the `src` folder.
 - Generate a `output.json` file in the `output` folder.
+
   - ```json
     {
       "input_1.png": [
@@ -51,6 +52,7 @@ You are given a set of five images, each of which contains some text in various 
       ], # You can add more lines if needed, or more complex data structures
     }
     ```
+
 - Add small note in the `README.md` file on how to run your code.
 - When you are done, create a pull request to this repository.
 - Request a review from @omarmhaimdat
@@ -59,7 +61,6 @@ You are given a set of five images, each of which contains some text in various 
 
 Add your instructions here.
 
-# Contact
+## Contact
 
--   Omar MHAIMDAT: omar.mhaimdat@evead.com
-    
+- Omar MHAIMDAT: omar.mhaimdat@evead.com
