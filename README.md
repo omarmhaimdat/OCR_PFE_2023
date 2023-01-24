@@ -25,6 +25,8 @@ You are given a set of five images, each of which contains some text in various 
 
 -   You must use Python or C/C++.
 -   Evaluate Character Segmentation and Recognition separately.
+    -   Area of interest detection.
+    -   Detection per area of interest. (Optional)
 -   Validation using Character Error Rate (CER) and Word Error Rate (WER).
 -   You are free to use any open-source library or tool.
 -   Processing speed is a **plus**.
