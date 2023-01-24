@@ -58,3 +58,8 @@ You are given a set of five images, each of which contains some text in various 
 ## How to run the code
 
 Add your instructions here.
+
+# Contact
+
+-   Omar MHAIMDAT: omar.mhaimdat@evead.com
+    
