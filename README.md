@@ -58,9 +58,65 @@ You are given a set of five images, each of which contains some text in various 
 - Request a review from @omarmhaimdat
 
 ## How to run the code
+Required packages :
 
-Add your instructions here.
+- cv2
+- numpy
+- jiwer
+- pytesseract
+
+Run the following commands :
+!pip3 install numpy
+!pip3 install opencv-python
+!pip3 install jiwer
+if you work on a linux environement :
+  !sudo apt-get update
+  !sudo apt-get install libleptonica-dev tesseract-ocr libtesseract-dev python3-pil tesseract-ocr-eng tesseract-ocr-script-latn
+if it's windows :
+  download binary from https://github.com/UB-Mannheim/tesseract/wiki.
+  pytesseract.pytesseract.tesseract_cmd = 'path to tesseract.exe'
+!pip3 install pytesseract
+!pip3 install tesseract
+!pip3 install tesseract-ocr
+
+
+Browse to your src directory:
+Run the command :
+python3 main.py
 
 ## Contact
 
 - Omar MHAIMDAT: omar.mhaimdat@evead.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
