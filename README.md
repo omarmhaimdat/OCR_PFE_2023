@@ -71,6 +71,8 @@ Run the following commands :
 - !pip3 install opencv-python
 - !pip3 install jiwer
 
+Configure pytesseract
+
 if you work on a linux environement :
 - !sudo apt-get update
 - !sudo apt-get install libleptonica-dev tesseract-ocr libtesseract-dev python3-pil tesseract-ocr-eng tesseract-ocr-script-latn
@@ -79,7 +81,7 @@ if it's windows :
 - download binary from https://github.com/UB-Mannheim/tesseract/wiki.
 - pytesseract.pytesseract.tesseract_cmd = 'path to tesseract.exe'
 
-
+run the following commands to install pytesseract :
 - !pip3 install pytesseract
 - !pip3 install tesseract
 - !pip3 install tesseract-ocr
