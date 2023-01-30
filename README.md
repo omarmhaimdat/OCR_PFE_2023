@@ -59,7 +59,17 @@ You are given a set of five images, each of which contains some text in various 
 
 ## How to run the code
 
-Add your instructions here.
+Open "ocr.ipynb" with google colab and run it there.
+
+## Other files
+output folder contain:
+actual_texts.json => actual text in the images that dont contain arabic.
+actual_texts_arabic.json => actual text in the images that contain arabic.
+output.json => text extracted from images that dont contain arabic.
+output_arabic.json => text extracted from images that contain arabic.
+
+
+
 
 ## Contact
 

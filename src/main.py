@@ -1,1 +1,3 @@
-# Your code lives here, Good luck!
+#######################OCR MODEL FOR NON ARABIC PUBLICATIONS#####################################################
+
+
