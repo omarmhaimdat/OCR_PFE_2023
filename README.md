@@ -59,7 +59,27 @@ You are given a set of five images, each of which contains some text in various 
 
 ## How to run the code
 
-Add your instructions here.
+python3 main.py (for english OCR)
+python3 arabicOCR.py (for arabic OCR)
+
+
+# Installing matplotlib
+!pip install matplotlib
+
+# Installing os
+!pip install os
+
+# Installing keras_ocr
+!pip install keras-ocr
+
+# Installing json
+!pip install json
+
+# Installing opencv-python-headless
+!pip install opencv-python-headless
+
+# Installing ArabicOcr
+!pip install ArabicOcr
 
 ## Contact
 
