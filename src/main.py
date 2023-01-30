@@ -18,7 +18,6 @@ def read_img_from_source():
      img = cv2.imread(absolute_input_path+"/"+input_images_noun, cv2.IMREAD_COLOR)
      img = cv2.cvtColor(img,cv2.COLOR_BGR2RGB)
      images_array = images_array + [img]
-  images_array = np.array(images_array)
   return images_array,input_images_nouns
 
 ### apply preprocessing operations on brute images
