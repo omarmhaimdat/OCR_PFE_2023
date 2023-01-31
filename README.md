@@ -68,20 +68,16 @@ You are given a set of five images, each of which contains some text in various 
 ### Installing matplotlib
 !pip install matplotlib
 
-### Installing os
-!pip install os
 
 ### Installing keras_ocr
 !pip install keras-ocr
 
-### Installing json
-!pip install json
 
 ### Installing opencv-python-headless
 !pip install opencv-python-headless
 
 ### Installing ArabicOcr
-!pip install ArabicOcr
+!pip install easyocr
 
 ## Contact
 
