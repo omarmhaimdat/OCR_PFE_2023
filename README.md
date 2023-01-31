@@ -76,8 +76,11 @@ You are given a set of five images, each of which contains some text in various 
 ### Installing opencv-python-headless
 !pip install opencv-python-headless
 
-### Installing ArabicOcr
+### Installing EasyOCR
 !pip install easyocr
+
+### Installing JIWER
+!pip install jiwer
 
 ## Contact
 
