@@ -59,7 +59,11 @@ You are given a set of five images, each of which contains some text in various 
 
 ## How to run the code
 
-Add your instructions here.
+Download the needed libraries using the following commands:
+
+- pip install paddleocr
+- pip install paddlepaddle
+- pip install jiwer
 
 ## Contact
 
